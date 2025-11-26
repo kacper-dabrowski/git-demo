@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "target": "ES2024",
+        "moduleResolution": "NodeNext",
+        "types": ["vitest/globals"]
+    },
+    "include": ["**/*.ts"],
+    "exclude": ["node_modules"]
+}
