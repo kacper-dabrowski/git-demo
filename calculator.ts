@@ -1,5 +1,5 @@
 export class Calculator {
     add(a: number, b: number): number {
-        return 1;
+        return a + b;
     }
 }
