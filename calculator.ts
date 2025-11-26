@@ -7,7 +7,7 @@ export class Calculator {
         return a - b;
     }
 
-    multiply(a: number, d: number): number {
-        return a * d;
+    multiply(a: number, c: number): number {
+        return a * c;
     }
 }
